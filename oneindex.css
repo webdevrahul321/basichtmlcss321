@@ -1,0 +1,15 @@
+h1{
+    color: white;
+    background-color: aqua;
+}
+img{
+    width: 400px;
+    height: 200px;
+    border: solid 3px lightblue;
+    z-index: -1;
+    position: absolute;
+}
+h2{
+    background-color: skyblue;
+    color:black;
+}
